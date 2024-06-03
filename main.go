@@ -11,3 +11,7 @@ func main() {
 
 	fmt.Println(str)
 }
+
+func solve(input string) string {
+	return "\n"
+}
